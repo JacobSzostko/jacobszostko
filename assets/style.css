@@ -1,14 +1,14 @@
 /*General website settings*/
 
     body{
-        background-color:#fff;
+        background-color:#23272a;
         background-size: cover;
-        font-family: 'Lato', sans-serif;
+        font-family: sans-serif;
         font-weight: 700!important;
     }
 
     span{
-        color: #e02e2e;
+        color: #599DF7;
     }
 
 /*End General website settings*/
@@ -61,7 +61,7 @@
         padding-bottom: 15px;
         font-size: 30px;
         font-weight: bold;
-        color: #000;
+        color: #fff;
     }
         @media only screen and (min-width: 300px) and (max-width: 400px){
             .name{
@@ -75,7 +75,7 @@
 
     .links{
         color: #fff;
-        background-color: #000;
+        background-color: #1c2022;
         text-decoration: none;
         display: block;
         text-align: center;
@@ -90,7 +90,7 @@
         transition-duration: 0.5s;
     }
     .links:hover{
-        background-color: #e02e2e;
+        background-color: #2e7be0;
         transform: scale(1.05);
         transition-duration: 0.5s;
     }
@@ -114,7 +114,7 @@
 
     .copyright{
         font-size: 13px;
-        color: rgb(97, 97, 97);
+        color: rgb(255, 255, 255);
         display: block;
         box-sizing: border-box;
         text-align: center;
