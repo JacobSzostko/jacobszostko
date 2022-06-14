@@ -1,14 +1,14 @@
 /*General website settings*/
 
     body{
-        background-color:#23272a;
+        background-color:#16181a;
         background-size: cover;
         font-family: sans-serif;
         font-weight: 700!important;
     }
 
     span{
-        color: #599DF7;
+        color: #16C87E;
     }
 
 /*End General website settings*/
@@ -90,7 +90,7 @@
         transition-duration: 0.5s;
     }
     .links:hover{
-        background-color: #2e7be0;
+        background-color: #16C87E;
         transform: scale(1.05);
         transition-duration: 0.5s;
     }
@@ -110,33 +110,3 @@
 
 /*End LinkTree*/
 
-/*Copyright*/
-
-    .copyright{
-        font-size: 13px;
-        color: rgb(255, 255, 255);
-        display: block;
-        box-sizing: border-box;
-        text-align: center;
-        padding-top:50px;
-    }
-        @media only screen and (min-width: 300px) and (max-width: 640px){
-            .copyright{
-                font-size: 10px;
-                padding-top: 5px;
-            }
-        }
-        @media only screen and (min-width: 641px) and (max-width: 1000px){
-            .copyright{
-                font-size: 20px;
-                padding-top: 20px;
-            }
-        }
-        @media only screen and (min-width: 1000px) and (max-width: 1500px){
-            .copyright{
-                font-size: 25px;
-                padding-top: 20px;
-            }
-        }
-
-/*End Copyright*/
