@@ -8,7 +8,7 @@
     }
 
     span{
-        color: #16C87E;
+        color: #2c6811;
     }
 
 /*End General website settings*/
@@ -90,7 +90,7 @@
         transition-duration: 0.5s;
     }
     .links:hover{
-        background-color: #16C87E;
+        background-color: #2c6811;
         transform: scale(1.05);
         transition-duration: 0.5s;
     }
